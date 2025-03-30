@@ -5,6 +5,7 @@ I hope you find something insightful
 - 🌱 I’m currently learning Python, SQL, Tableau, and Power BI 
 - 💞️ I’m looking to collaborate on retail and renewable energy data analysis and machine learning projects
 - 📫 Reach out to me at maxlstephens@outlook.com
+- :arrow_down: Check out my projects below :arrow_down:
 
 ## Predicting Solar Generation with Machine Learning
 https://github.com/Stephens544/PV_Generation_Predictive_Model \ 
