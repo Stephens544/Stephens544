@@ -2,8 +2,8 @@
 # Hello and welcome to my Data Analyst portfolio
 I hope you find something insightful 
 - 👀 I’m interested in becoming a full-time data analyst 
-- 🌱 I’m currently learning Python, SQL, Tableau, and Power BI 
-- 💞️ I’m looking to collaborate on retail and renewable energy data analysis and machine learning projects
+- 🌱 I’m currently using Python, SQL, Tableau, and Power BI 
+- 💞️ I’m looking to collaborate on retail and renewable energy data analysis, and machine learning projects
 - 📫 Reach out to me at maxlstephens@outlook.com
 - :arrow_down: Check out my projects below :arrow_down:
 
