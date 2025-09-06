@@ -1,7 +1,10 @@
 
 # Hello and welcome to my Git
-I hope you find something insightful 
-- :arrow_down: Check out my projects below :arrow_down:
+I hope you find something insightful - :arrow_down: Check out my projects below :arrow_down:
+
+## Prompt Engineering Tutorial
+https://github.com/Stephens544/prompt-eng-interactive-tutorial
+This tutorial on using Anthropic's API was handy, and I learnt a lot about how to prompt more effectively. Using XML tags and prompt chaining was the highlight of the course for me. 
 
 ## Predicting Solar Generation with Machine Learning
 https://github.com/Stephens544/PV_Generation_Predictive_Model \ 
